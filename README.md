@@ -4,8 +4,8 @@ This Project demonstrates how to handle requests in nodejs
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/theaderonkeadebisi/AltSchool-Node.js-handling-requests-assignment.git`
-2. Navigate to the project directory: `cd ASSIGNMENT-1/handling-requests-assignment`
+1. Clone the repository: `git clone https://github.com/theaderonkeadebisi/handling-request.git`
+2. Navigate to the project directory: `cd handling-requests-assignment/${foldername}`
 
 ## Tests
 
